@@ -1,9 +1,9 @@
 # Hello and Welcome to the Show
-Hi my name is Cash and I am just a simple developer. 
+Hi my name is Cash and I am just a simple programmer who likes to dabble in many things. 
 
 [LinkedIn](https://www.linkedin.com/in/josh-c-525124b7/) - My LinkedIn Profile
 
-Things that I work(ed)
+Here are some projects that I work(ed) on
 ### Minecraft:
 * [[fabric] cash-config](https://github.com/mastercash/cash-config) - simple configuration mod with no dependencies. Can be used solely on client or solely on server, doesn't have client-server dependency.
 * [[fabric] levelsystem](https://github.com/mastercash/levelsystem) - a runescape-esk leveling system added to minecraft (required only on server, but can be downloaded for single-player play)
